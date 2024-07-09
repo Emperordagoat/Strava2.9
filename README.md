@@ -1,8 +1,6 @@
 
 <h1 align="center">Strava 2.9</h1>
 
-</p>
-
 <p align="center">
   <a href="https://gihtub.com/Emperordagoat">
 
