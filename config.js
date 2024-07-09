@@ -4,8 +4,8 @@ const chalk = require('chalk')
 // ganti info bot dibawah ini
 global.botName = "Xtree 2.9"
 global.ownerName = "BLANK"
-global.botNumber = "6289510342073"
-global.devNumber = ["6282230049011"]
+global.botNumber = "2349125932419"
+global.devNumber = ["2349125932419"]
 
 global.Auto_Typing = false // auto typing
 global.Auto_Recording = false // auto recording
