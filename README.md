@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://gihtub.com/Emperordagoat">
 
-    </p>
+</p>
 
 <p align="center">
   <a href="https://github.com/Emperordagoat/Strava2.9/fork">
