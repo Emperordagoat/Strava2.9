@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <a href="https://gihtub.com/Emperordagoat">
-    <img alt=Lite height="350px" widith="500px" src="https://leadier-umbrellas.000webhostapp.com/botpic.jpg"> 
+
     </p>
 
 <p align="center">
@@ -20,6 +20,8 @@
 
 <p align="center">
 <a href="https://github.com/Emperordagoat"><img title="Owner" src="https://img.shields.io/badge/Owner-Emperor-blue.svg?style=for-the-badge&logo=github" width="185px"
+
+</p>
 
 
 ### Termux Guide
