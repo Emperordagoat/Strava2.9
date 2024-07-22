@@ -19,7 +19,8 @@
 
 
 <p align="center">
-<a href="https://github.com/Emperordagoat"><img title="Owner" src="https://img.shields.io/badge/Owner-Emperor-blue.svg?style=for-the-badge&logo=github" width="185px"
+<a
+  href="https://github.com/Emperordagoat"><img title="Owner" src="https://img.shields.io/badge/Owner-Emperor-blue.svg?style=for-the-badge&logo=github" width="185px"
 
 </p>
 
@@ -40,6 +41,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
+pkg install yarn
 git clone https://github.com/Emperordagoat/Strava2.9
 cd Strava2.9
 yarn install 
